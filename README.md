@@ -2,7 +2,7 @@
 Average internet speeds in California's counties
 
 ## Intro
-The goal of this project was to collect internet speeds in counties throughout \
+The goal of this project was to collect internet speeds in counties throughout
 California and explore the reasoning behind the differing county speeds.
 ## Work
 The internet speed tests were pulled from Ookla's API and the shapefile was pulled
